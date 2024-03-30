@@ -4,7 +4,7 @@ This is a sample Hardhat project for an escrow contract facilitating funds trans
 
 ### Contract Functionality
 
-In this contract, three main functions are defined:
+In this contract, two main functions are defined:
 
 1. **Deposit:** 
     - Deposits funds into the escrow, locking them until claimed.
